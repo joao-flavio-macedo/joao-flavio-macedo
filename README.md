@@ -2,7 +2,7 @@
 - 👀 I’m interested in DEVOPS
 - 🌱 I’m currently learning DEVOPS TOOLS
 - 💞️ I’m looking to collaborate on DEVOPS TOOLS and PRACTICES
-- 📫 How to reach me jflaviomacedo@outlook.com
+- 📫 How to reach me standard+jaguar.1f3s@norton.me
 
 <!---
 joao-flavio-macedo/joao-flavio-macedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
